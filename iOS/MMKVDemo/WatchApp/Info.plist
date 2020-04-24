@@ -26,7 +26,7 @@
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 	</array>
 	<key>WKCompanionAppBundleIdentifier</key>
-	<string>com.lingol.MMKVDemo1</string>
+	<string>com.lingol.MMKVDemo.sivanwu</string>
 	<key>WKWatchKitApp</key>
 	<true/>
 </dict>
